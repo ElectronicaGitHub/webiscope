@@ -1,0 +1,16 @@
+{
+  "name": "node-periscope-stream",
+  "version": "0.1.5",
+  "homepage": "https://github.com/matteocontrini/node-periscope-stream",
+  "authors": [
+    "Philip <molo4nik11@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
